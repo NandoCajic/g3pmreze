@@ -10,7 +10,7 @@ let userScore = document.getElementById("user-score");
 let startScreen = document.querySelector(".start-screen");
 let startButton = document.getElementById("start-button");
 let questionCount;
-let scoreCount = 0;
+
 
 let countdown;
 
